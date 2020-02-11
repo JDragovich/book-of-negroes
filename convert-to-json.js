@@ -74,6 +74,9 @@ function findColony(previousSlavery, strippedEntry){
   if(strippedEntry.match(/Lord Baltimore/) && colonyObj.city === "Baltimore"){
     colonyObj.city = null
   }
+  if(colonyObj.city && colonyObj.city.match(coloniesRegex) && colonyObj.city === colonyObj.colony){
+    colonyObj.city = null
+  }
 
   return colonyObj
 }
