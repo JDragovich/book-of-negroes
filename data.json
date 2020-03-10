@@ -121,7 +121,7 @@
         "city": null,
         "colony": null,
         "escapeYear": null,
-        "rawEntry": "Sarah Farmer, 23, healthy young woman, (Mrs. Sharp).",
+        "rawEntry": "Sarah Farmer, 23, healthy young woman, (Mrs. Sharp). Free Negress indented to Mrs. Sharp for one year.",
         "ship": {
             "name": "Aurora bound for St. John's",
             "destination": "St. John's"
@@ -650,6 +650,21 @@
         "colony": null,
         "escapeYear": null,
         "rawEntry": "Ceasor &amp; a boy 9 years old, 30, stout man, (Peter Ryerson). Property of Peter Ryerson with whom he is going to Nova Scotia.",
+        "ship": {
+            "name": "Peggy",
+            "destination": "Port Roseway"
+        }
+    },
+    {
+        "index": 47,
+        "name": "Abraham",
+        "age": 21,
+        "ageString": "21",
+        "condition": "stout man",
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Abraham &amp; 21, stout man, (Mr. Edwards). Property of Gideon White but allowed to go with Mr. Edwards to Nova Scotia.",
         "ship": {
             "name": "Peggy",
             "destination": "Port Roseway"
@@ -2192,6 +2207,18 @@
         }
     },
     {
+        "index": 149,
+        "name": "Ruth",
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": "Henry Corneck",
+        "city": "Norfolk",
+        "colony": "Virginia",
+        "escapeYear": 1777,
+        "rawEntry": "Ruth his wife, (age not listed), (Mr, Dewit). Formerly slave to Henry Corneck, Virginia; left him about 6 years ago."
+    },
+    {
         "index": 150,
         "name": "Luke Brian",
         "age": 25,
@@ -3376,6 +3403,18 @@
         }
     },
     {
+        "index": 229,
+        "name": "James Jackson",
+        "age": 50,
+        "ageString": "50",
+        "condition": "thin",
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "James Jackson 50, thin, goes as pilot (Capt. Mowat). Formerly slave to late Robert Tucker, Norfolk, Virginia; left him with Lord Dunmore when he left that country &amp; was employed as a pilot."
+    },
+    {
         "index": 230,
         "name": "Judith Jackson",
         "age": 24,
@@ -3466,6 +3505,22 @@
         "colony": "New York",
         "escapeYear": "1782",
         "rawEntry": "Sebro Jackson, 25, thin wench, mulatto (Capt. Mowat). Formerly slave to Luke Sheets, New York, who left him there in the year 1782; sent on board the Thetis.",
+        "ship": {
+            "name": "Ann",
+            "destination": "Port Roseway"
+        }
+    },
+    {
+        "index": 235,
+        "name": "Zolpher Jackson",
+        "age": 0.5,
+        "ageString": "½",
+        "condition": null,
+        "formerOwner": "Luke Sheets",
+        "city": null,
+        "colony": "New York",
+        "escapeYear": "1782",
+        "entry": "Zolpher Jackson, ½. Formerly slave to Luke Sheets, New York, who left him there in the year 1782; sent on board the Thetis.",
         "ship": {
             "name": "Ann",
             "destination": "Port Roseway"
@@ -3786,6 +3841,22 @@
         "colony": "Massachusetts",
         "escapeYear": null,
         "rawEntry": "Dick Gray, 25, stout fellow, (William Hill). Free; says he served until he was 21 years of age with John Lee, Westfield Massachusetts.",
+        "ship": {
+            "name": "Ann",
+            "destination": "Port Roseway"
+        }
+    },
+    {
+        "index": 257,
+        "name": "Harry",
+        "age": 23,
+        "ageString": "23",
+        "condition": "stout",
+        "formerOwner": "John Anderson",
+        "city": "New York",
+        "colony": "New York",
+        "escapeYear": null,
+        "rawEntry": "Harry 23, stout, John Anderson of Port Roseway, claimant. (John Anderson). Purchased as per Bill of Sale from Medcalf Eden, New York; born on Staten Island.",
         "ship": {
             "name": "Ann",
             "destination": "Port Roseway"
@@ -5392,6 +5463,22 @@
         }
     },
     {
+        "index": 367,
+        "name": "Sally Dixon",
+        "age": null,
+        "ageString": null,
+        "condition": "stout wench",
+        "formerOwner": "Willis Wilkinson",
+        "city": "Nansemond",
+        "colony": "Virginia",
+        "escapeYear": 1779,
+        "rawEntry": "Sally Dixon, stout wench, mulatto, (William McLeod). Formerly slave to Willis Wilkinson, Nansemond, Virginia; left him about 4 years past.",
+        "ship": {
+            "name": "Blacket",
+            "destination": "Port Roseway"
+        }
+    },
+    {
         "index": 368,
         "name": "Henry Beach",
         "age": 30,
@@ -5642,6 +5729,22 @@
         "colony": null,
         "escapeYear": null,
         "rawEntry": "Francis Bruff, 18, stout Black fellow, a cooper, (Andrew Barclay). Born free in the Grenadas, W. Indies, says he was engaged till 21 years of age to Gen. Arnold.",
+        "ship": {
+            "name": "Blacket",
+            "destination": "Port Roseway"
+        }
+    },
+    {
+        "index": 384,
+        "name": "Charles",
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": "Jamaica",
+        "escapeYear": null,
+        "rawEntry": "Charles, (Andrew Barclay). Came from Jamaica, can't understand him. ",
         "ship": {
             "name": "Blacket",
             "destination": "Port Roseway"
@@ -6048,6 +6151,22 @@
         }
     },
     {
+        "index": 412,
+        "name": "James James",
+        "age": 0.75,
+        "ageString": "¾ ¼ M",
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "James James, ¾ ¼ M, (William Chetwine). ",
+        "ship": {
+            "name": "Elizabeth",
+            "destination": "Port Roseway"
+        }
+    },
+    {
         "index": 413,
         "name": "Jack Dunlap",
         "age": 9,
@@ -6330,6 +6449,54 @@
         "colony": "Jersey",
         "escapeYear": 1774,
         "rawEntry": "Sarah Piggot, 36, stout wench, B, (John Stewart). Says he was born free at Massanacchus nigh Hackensack, Jersey; left it 9 years ago.",
+        "ship": {
+            "name": "Grace",
+            "destination": "Port Roseway"
+        }
+    },
+    {
+        "index": 432,
+        "name": "John Piggot",
+        "age": 18,
+        "ageString": "18",
+        "condition": "stout fellow",
+        "formerOwner": null,
+        "city": "Hackensack",
+        "colony": "New Jersey",
+        "escapeYear": 1774,
+        "rawEntry": "John Piggot, their son, 18, stout fellow, B, (John Stewart). Says he was born free at Massanacchus nigh Hackensack, Jersey; left it 9 years ago.",
+        "ship": {
+            "name": "Grace",
+            "destination": "Port Roseway"
+        }
+    },
+    {
+        "index": 433,
+        "name": "Casar Piggot",
+        "age": 9,
+        "ageString": "9",
+        "condition": "fine boy",
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Casar Piggot, their son, 99, fine boy, (John Stewart). Says he was born free.",
+        "ship": {
+            "name": "Grace",
+            "destination": "Port Roseway"
+        }
+    },
+    {
+        "index": 434,
+        "name": "Isaac James",
+        "age": null,
+        "ageString": null,
+        "condition": "stout fellow",
+        "formerOwner": "George Wilson",
+        "city": null,
+        "colony": null,
+        "escapeYear": 1780,
+        "rawEntry": "Isaac James, stout fellow, B, blind left eye, (Hugh Eagle). Formerly slave to George Wilson of Boston, taken about 3 years old when his master was killed.",
         "ship": {
             "name": "Grace",
             "destination": "Port Roseway"
@@ -11360,6 +11527,22 @@
         }
     },
     {
+        "index": 783,
+        "name": null,
+        "age": 23,
+        "ageString": "23",
+        "condition": "stout fellow",
+        "formerOwner": "Leonard Van Klock",
+        "city": "Poughkeepsie",
+        "colony": "New York",
+        "escapeYear": 1778,
+        "rawEntry": "23, stout fellow, (Richard Vanderborough). Formerly slave to Leonard Van Klock at Poughkeepsie; left him 5 years ago.",
+        "ship": {
+            "name": "Little Dale",
+            "destination": "St. John's"
+        }
+    },
+    {
         "index": 784,
         "name": "Sarah &amp; 2 children",
         "age": 25,
@@ -12480,6 +12663,22 @@
         }
     },
     {
+        "index": 871,
+        "name": "Nancy Haynes",
+        "age": 0.5,
+        "ageString": "½",
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Nancy Haynes, ½, B.",
+        "ship": {
+            "name": "Mars",
+            "destination": "Port"
+        }
+    },
+    {
         "index": 873,
         "name": "Sarah Jackson",
         "age": 23,
@@ -12876,6 +13075,22 @@
         "rawEntry": "Polly Williams, 20, stout wench, (John Cooke). Formerly lived with Parker Quince of Cape Fear in North Carolina; left him 7 years ago, produced GBC that she is free.",
         "ship": {
             "name": "Ann",
+            "destination": "St. John's"
+        }
+    },
+    {
+        "index": 902,
+        "name": "Anna",
+        "age": 27,
+        "ageString": "27",
+        "condition": "stout wench",
+        "formerOwner": "Edmund Warde",
+        "city": "East Chester",
+        "colony": "New York",
+        "escapeYear": 1776,
+        "rawEntry": "Anna 27, stout wench, (Thomas Wolverton). Formerly slave to Edmund Warde of East Chester in the province of New York; left him near 7 years ago.",
+        "ship": {
+            "name": "Townshend",
             "destination": "St. John's"
         }
     },
@@ -13370,6 +13585,22 @@
         "colony": "Virginia",
         "escapeYear": 1781,
         "rawEntry": "Tom Mills, 15, stout boy, (Jesse Lamorce). Formerly slave to Joseph Mills of Suffolk, Virginia; left him 2 years ago. GBC.",
+        "ship": {
+            "name": "Montague",
+            "destination": "River"
+        }
+    },
+    {
+        "index": 941,
+        "name": "Ben Grey",
+        "age": null,
+        "ageString": null,
+        "condition": "stout fellow",
+        "formerOwner": "Peter Lusam",
+        "city": "Georgetown",
+        "colony": "South Carolina",
+        "escapeYear": 1781,
+        "rawEntry": "Ben Grey, stout fellow, (Robert Wilson). Formerly slave to Peter Lusam of Georgetown, South Carolina; left him 2 years ago.",
         "ship": {
             "name": "Montague",
             "destination": "River"
@@ -24000,6 +24231,22 @@
         }
     },
     {
+        "index": 1669,
+        "name": "Mary Biverout",
+        "age": 28,
+        "ageString": "28",
+        "condition": "stout wench",
+        "formerOwner": null,
+        "city": "Savannah",
+        "colony": "Georgia",
+        "escapeYear": null,
+        "rawEntry": "Mary Biverout, [under her name appears \"a Davis\"], 28, stout wench. Says she was born free at Savannah in Georgia.",
+        "ship": {
+            "name": "Clinton",
+            "destination": "Annapolis"
+        }
+    },
+    {
         "index": 1670,
         "name": "Lizzy Williams",
         "age": 20,
@@ -27296,6 +27543,22 @@
         }
     },
     {
+        "index": 1878,
+        "name": "Peter Pharo",
+        "age": 35,
+        "ageString": "35",
+        "condition": "stout man",
+        "formerOwner": "Abraham Duryee",
+        "city": "Millstone",
+        "colony": "New Jersey",
+        "escapeYear": 1777,
+        "rawEntry": "Peter Pharo. 35, stout man. Formerly the property of Abraham Duryee of Millstone, New Jersey; left him 6 years ago.",
+        "ship": {
+            "name": "L'Abondance",
+            "destination": "Port Roseway"
+        }
+    },
+    {
         "index": 1879,
         "name": "Richard Miller",
         "age": 27,
@@ -29840,6 +30103,22 @@
         }
     },
     {
+        "index": 2062,
+        "name": "Hercules",
+        "age": 16,
+        "ageString": "16",
+        "condition": "stout fellow, very flat nose",
+        "formerOwner": "Isaac Harleston",
+        "city": "Irish Town",
+        "colony": "South Carolina",
+        "escapeYear": 1777,
+        "rawEntry": "Hercules 16, stout fellow, very flat nose, (Joseph Pilgrim). Formerly the property of Isaac Harleston who was killed at the Eutaws of Irish town, South Carolina, 6 years ago.",
+        "ship": {
+            "name": "Nautilus",
+            "destination": "Abaco"
+        }
+    },
+    {
         "index": 2063,
         "name": "Nancy",
         "age": 60,
@@ -31632,6 +31911,38 @@
         }
     },
     {
+        "index": 2195,
+        "name": "Harry",
+        "age": 0.1,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Harry, her Vinia's infant, (Capt. Willmot). Capt. Willmot's property.",
+        "ship": {
+            "name": "Apollo",
+            "destination": "St. John's"
+        }
+    },
+    {
+        "index": 2196,
+        "name": "Robert",
+        "age": 0.1,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Robert, her Vinia's infant, (Capt. Willmot). Capt Willmot's property.",
+        "ship": {
+            "name": "Apollo",
+            "destination": "St. John's"
+        }
+    },
+    {
         "index": 2198,
         "name": "Silvia",
         "age": 20,
@@ -31658,6 +31969,22 @@
         "colony": "South Carolina",
         "escapeYear": 1779,
         "rawEntry": "Besse, 21, likely wench, (D. Humphries, N.Y. Vols.). Lived with Capt. Atkins, Clown, South Carolina; left him about 4 years ago. Sold by the widow of said Atkins sometime after as the wench says.",
+        "ship": {
+            "name": "Two Sisters",
+            "destination": "St. John's"
+        }
+    },
+    {
+        "index": 2200,
+        "name": "Kitty",
+        "age": 0.1,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Kitty, infant, M, (Dr. Humphries, N.Y. Vols.). Her infant.",
         "ship": {
             "name": "Two Sisters",
             "destination": "St. John's"
@@ -34912,6 +35239,22 @@
         }
     },
     {
+        "index": 2439,
+        "name": "Susannah",
+        "age": 0.5,
+        "ageString": "½",
+        "condition": "infant",
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Susannah, ½ infant, (James Bogart). Property of James Bogart. ",
+        "ship": {
+            "name": "Mary",
+            "destination": "Port Roseway"
+        }
+    },
+    {
         "index": 2440,
         "name": "Bill",
         "age": 12,
@@ -35018,6 +35361,22 @@
         "colony": null,
         "escapeYear": null,
         "rawEntry": "Nancy, 25, stout wench, (Dr. Bullen). Property of Dr. Bullen. ",
+        "ship": {
+            "name": "William &amp; Mary",
+            "destination": "Halifax"
+        }
+    },
+    {
+        "index": 2448,
+        "name": "Sarah",
+        "age": 0.5,
+        "ageString": "½",
+        "condition": "infant",
+        "formerOwner": "Dr. Bullen",
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Sarah, ½, infant, (Dr. Bullen). Property of Dr. Bullen. ",
         "ship": {
             "name": "William &amp; Mary",
             "destination": "Halifax"
@@ -35280,6 +35639,22 @@
         }
     },
     {
+        "index": 2469,
+        "name": "Dinah",
+        "age": 0.5,
+        "ageString": "½",
+        "condition": "infant",
+        "formerOwner": "Capt. Polhemus",
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Dinah, ½, infant, (Capt. Polhemus). Property of Capt. Polhemus.",
+        "ship": {
+            "name": "Hope",
+            "destination": "Annapolis"
+        }
+    },
+    {
         "index": 2470,
         "name": "Elizabeth",
         "age": 26,
@@ -35290,6 +35665,22 @@
         "colony": null,
         "escapeYear": null,
         "rawEntry": "Elizabeth, 26, stout wench, (Capt. Hicks). Property of Capt. Hicks.",
+        "ship": {
+            "name": "Hope",
+            "destination": "Annapolis"
+        }
+    },
+    {
+        "index": 2471,
+        "name": "Tim",
+        "age": 0.5,
+        "ageString": "½",
+        "condition": "infant",
+        "formerOwner": "Capt. Hicks",
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Tim, ½, infant, (Capt. Hicks). Property of Capt. Hicks.",
         "ship": {
             "name": "Hope",
             "destination": "Annapolis"
@@ -35936,6 +36327,22 @@
         }
     },
     {
+        "index": 2517,
+        "name": "Daniel",
+        "age": 0.75,
+        "ageString": "9 months",
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Daniel. 9 months, child of the above wench (Katy Profit), (James Dole).",
+        "ship": {
+            "name": "Hopewell",
+            "destination": "Port Roseway"
+        }
+    },
+    {
         "index": 2518,
         "name": "Edward Wan",
         "age": 30,
@@ -36426,6 +36833,38 @@
         "colony": null,
         "escapeYear": null,
         "rawEntry": "Betty, 1, infant, (W.M. General Dept.). Born within the British lines. ",
+        "ship": {
+            "name": "Elk",
+            "destination": "Port Mattoon"
+        }
+    },
+    {
+        "index": 2555,
+        "name": "Elijah",
+        "age": 0.5,
+        "ageString": "½",
+        "condition": "infant",
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Elijah, ½, infant, (W.M. General Dept.). Born within the British lines.",
+        "ship": {
+            "name": "Elk",
+            "destination": "Port Mattoon"
+        }
+    },
+    {
+        "index": 2556,
+        "name": "Sukey",
+        "age": 0.5,
+        "ageString": "½",
+        "condition": "infant",
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Sukey, ½, infant, (W.M. General Dept.). Born within the British lines.",
         "ship": {
             "name": "Elk",
             "destination": "Port Mattoon"
@@ -36938,6 +37377,38 @@
         "colony": "South Carolina",
         "escapeYear": null,
         "rawEntry": "George, 19, stout lad, (Edward O'Brien). Formerly slave to Thomas Mills nigh Charlestown, South Carolina; left him 4 years. GBC.",
+        "ship": {
+            "name": "Ship",
+            "destination": "Annapolis"
+        }
+    },
+    {
+        "index": 2595,
+        "name": "John",
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "John, free.",
+        "ship": {
+            "name": "Ship",
+            "destination": "Annapolis"
+        }
+    },
+    {
+        "index": 2596,
+        "name": "Mima",
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Mima, free.",
         "ship": {
             "name": "Ship",
             "destination": "Annapolis"
@@ -37632,13 +38103,29 @@
         }
     },
     {
+        "index": 2644,
+        "name": "Johnny",
+        "age": 0.5,
+        "ageString": "infant",
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Johnny, ½, infant, (Black Pioneers). Born within the British Lines. ",
+        "ship": {
+            "name": "Lehigh",
+            "destination": "Annapolis"
+        }
+    },
+    {
         "index": 2645,
         "name": "Sarah",
         "age": 42,
         "ageString": "42",
         "condition": "ordinary wench",
         "formerOwner": "Lord Dunmore. Left him",
-        "city": "1776",
+        "city": null,
         "colony": null,
         "escapeYear": "1776",
         "rawEntry": "Sarah, 42, ordinary wench, stone blind, (Black Pioneers). Formerly slave to Lord Dunmore. Left him in 1776.",
@@ -40138,6 +40625,22 @@
         "colony": "South Carolina",
         "escapeYear": "1779",
         "rawEntry": "Clara, 12, likely child, (Black Pioneers). Formerly slave to Mr. Bellinge, Ashepoo, South Carolina; left him in 1779. ",
+        "ship": {
+            "name": "Joseph",
+            "destination": "Annapolis"
+        }
+    },
+    {
+        "index": 2817,
+        "name": "John",
+        "age": 1.5,
+        "ageString": "1½",
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "John 1½, infant. Born within the lines.",
         "ship": {
             "name": "Joseph",
             "destination": "Annapolis"
@@ -42896,6 +43399,22 @@
         }
     },
     {
+        "index": 2993,
+        "name": "Dick Parkin",
+        "age": 0.5,
+        "ageString": "½",
+        "condition": null,
+        "formerOwner": "Mr. Parkin",
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Dick Parkin, ½, (Mr. Parkin). Mr. Parkin's property.",
+        "ship": {
+            "name": "Nisbet",
+            "destination": "Port Mattoon"
+        }
+    },
+    {
         "index": 2994,
         "name": "Anthony Redhook",
         "age": 25,
@@ -43456,6 +43975,22 @@
         }
     },
     {
+        "index": 3029,
+        "name": "Jane Barclay",
+        "age": 0.5,
+        "ageString": "½",
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Jane Barclay, ½. Her children.",
+        "ship": {
+            "name": "Nisbet",
+            "destination": "Port Mattoon"
+        }
+    },
+    {
         "index": 3030,
         "name": "Mary Stratton",
         "age": 24,
@@ -43728,6 +44263,22 @@
         }
     },
     {
+        "index": 3057,
+        "name": "John Bucher",
+        "age": 23,
+        "ageString": "aged 23 years",
+        "condition": "stout fellow",
+        "formerOwner": "Mr. Webb",
+        "city": "Charlestown",
+        "colony": "South Carolina",
+        "escapeYear": 1776,
+        "rawEntry": "John Bucher, aged 23 years, stout fellow, goes with the Waggon Master General's department. Formerly slave to Mr. Webb, Charlestown, South Carolina; left him in 1776. General Musgrave's Certificate.",
+        "ship": {
+            "name": "Peggy",
+            "destination": null
+        }
+    },
+    {
         "index": 3058,
         "name": "Fortune Rivers",
         "age": 30,
@@ -43888,6 +44439,22 @@
         }
     },
     {
+        "index": 3069,
+        "name": "Thomas Thomas",
+        "age": 36,
+        "ageString": "aged 36 years",
+        "condition": "stout fellow",
+        "formerOwner": "Charles Thomas",
+        "city": "Nansemond",
+        "colony": "Virignia",
+        "escapeYear": 1776,
+        "rawEntry": "Thomas Thomas, aged 36 years, stout fellow, Royal Artillery Department. Formerly slave to Charles Thomas, Nancy Mund, Virginia; left him in 1776. GBC.",
+        "ship": {
+            "name": "The Ship Danger",
+            "destination": null
+        }
+    },
+    {
         "index": 3070,
         "name": "Barry Sawyer",
         "age": 25,
@@ -44026,6 +44593,22 @@
         "colony": "Virginia",
         "escapeYear": "1777",
         "rawEntry": "Michael Wallace, 38 years, likely fellow, RAD. Formerly slave to James Wallace, Norfolk, Virginia; left him and joined Lord Dunmore in 1777. GMC.",
+        "ship": {
+            "name": "The Ship Danger",
+            "destination": null
+        }
+    },
+    {
+        "index": 3079,
+        "name": "Hannah Wallace",
+        "age": 22,
+        "ageString": "22 years",
+        "condition": "ordinary wench",
+        "formerOwner": "William Arronstead",
+        "city": "Gloucester",
+        "colony": "Virginia",
+        "escapeYear": "1776",
+        "rawEntry": "Hannah Wallace 22 years, ordinary wench, RAD. Formerly slave to William Arronstead, Gloucester, Virginia; left him in 1776. GMC.",
         "ship": {
             "name": "The Ship Danger",
             "destination": null
