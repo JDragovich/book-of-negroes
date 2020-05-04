@@ -1,0 +1,2167 @@
+{
+    "cities": {
+        "Reedy Island": {
+            "colony": null,
+            "indexes": [
+                6
+            ]
+        },
+        "Philadelphia": {
+            "colony": null,
+            "indexes": [
+                2553,
+                2628,
+                2651,
+                2664,
+                2665,
+                2769,
+                2818,
+                2900,
+                2911,
+                2985,
+                2988,
+                3016,
+                3082
+            ]
+        },
+        "New York": {
+            "colony": "New York",
+            "indexes": [
+                11,
+                75,
+                257,
+                461,
+                476,
+                533,
+                712,
+                789,
+                794,
+                832,
+                1667,
+                2133,
+                2510,
+                2611,
+                2674
+            ]
+        },
+        "Charlestown": {
+            "colony": "South Carolina",
+            "indexes": [
+                2906,
+                2912,
+                2928,
+                2933,
+                2937,
+                2941,
+                2951,
+                2953,
+                2963,
+                2967,
+                2970,
+                2971,
+                2981,
+                2983,
+                2991,
+                3010,
+                3040,
+                3057,
+                3058,
+                3059
+            ]
+        },
+        "Savannah": {
+            "colony": null,
+            "indexes": [
+                2859,
+                2949
+            ]
+        },
+        "Great Neck": {
+            "colony": "Long Island",
+            "indexes": [
+                34,
+                35
+            ]
+        },
+        "Portsmouth": {
+            "colony": "Rhode Island",
+            "indexes": [
+                3020
+            ]
+        },
+        "Tappan": {
+            "colony": "New Jersey",
+            "indexes": [
+                58,
+                179,
+                182,
+                183,
+                188,
+                198,
+                201,
+                212,
+                989,
+                990,
+                1209,
+                1230,
+                1665,
+                2892,
+                3042,
+                3043,
+                3061
+            ]
+        },
+        "Setockett": {
+            "colony": "Long Island",
+            "indexes": [
+                59,
+                86
+            ]
+        },
+        "Redding": {
+            "colony": "Connecticut",
+            "indexes": [
+                69
+            ]
+        },
+        "Norwalk": {
+            "colony": "New England",
+            "indexes": [
+                436
+            ]
+        },
+        "Jamaica": {
+            "colony": "Long Island",
+            "indexes": [
+                1972,
+                2998
+            ]
+        },
+        "Hackensack": {
+            "colony": "New Jersey",
+            "indexes": [
+                427,
+                432,
+                443,
+                499,
+                500,
+                501,
+                556,
+                970,
+                1227,
+                1952,
+                2380,
+                2393,
+                2395,
+                2947,
+                2959,
+                2995
+            ]
+        },
+        "Fairfield": {
+            "colony": "Connecticut",
+            "indexes": [
+                2394
+            ]
+        },
+        "Hampton": {
+            "colony": "Virginia",
+            "indexes": [
+                82,
+                234,
+                237,
+                238,
+                532,
+                537,
+                538,
+                659,
+                1112,
+                1618,
+                1799,
+                1816,
+                1866,
+                1886,
+                1887,
+                1892,
+                1933,
+                2057,
+                2825,
+                2910,
+                2914,
+                2964,
+                2965,
+                2968
+            ]
+        },
+        "Somerset County": {
+            "colony": "Maryland",
+            "indexes": [
+                1159,
+                3008
+            ]
+        },
+        "Benedict County": {
+            "colony": "Maryland",
+            "indexes": [
+                88
+            ]
+        },
+        "Sussex County": {
+            "colony": null,
+            "indexes": [
+                1777
+            ]
+        },
+        "Richmond": {
+            "colony": "Virginia",
+            "indexes": [
+                92,
+                291,
+                899,
+                2092
+            ]
+        },
+        "Middletown": {
+            "colony": "New Jersey",
+            "indexes": [
+                2152,
+                2549
+            ]
+        },
+        "Killingsworth": {
+            "colony": "Connecticut",
+            "indexes": [
+                110
+            ]
+        },
+        "Paramus": {
+            "colony": "New Jersey",
+            "indexes": [
+                135,
+                223,
+                999,
+                1881,
+                1884,
+                2364,
+                2898
+            ]
+        },
+        "Frederick town": {
+            "colony": "Virginia",
+            "indexes": [
+                137
+            ]
+        },
+        "Hamstead Plains": {
+            "colony": null,
+            "indexes": [
+                139
+            ]
+        },
+        "Elizabeth town": {
+            "colony": "New Jersey",
+            "indexes": [
+                450,
+                1187,
+                2161
+            ]
+        },
+        "Princess Ann": {
+            "colony": "Virginia",
+            "indexes": [
+                148,
+                255,
+                319,
+                321,
+                322,
+                478,
+                1608,
+                1614,
+                1924,
+                2704,
+                2893
+            ]
+        },
+        "Norfolk": {
+            "colony": "Virginia",
+            "indexes": [
+                2091,
+                2301,
+                2343,
+                2381,
+                2629,
+                2652,
+                2653,
+                2654,
+                2655,
+                2681,
+                2690,
+                2693,
+                2715,
+                2727,
+                2730,
+                2731,
+                2751,
+                2752,
+                2782,
+                2803,
+                2832,
+                2897,
+                2915,
+                2920,
+                2946,
+                2984,
+                3064,
+                3072,
+                3078,
+                3084
+            ]
+        },
+        "Seabrook": {
+            "colony": "Connecticut",
+            "indexes": [
+                150
+            ]
+        },
+        "Rappahannock": {
+            "colony": "Virginia",
+            "indexes": [
+                151,
+                152,
+                161,
+                572,
+                1664,
+                2309
+            ]
+        },
+        "Sleepy Hollow": {
+            "colony": "New York",
+            "indexes": [
+                153,
+                407,
+                408,
+                470,
+                1694,
+                1712,
+                2528
+            ]
+        },
+        "Fairfax County": {
+            "colony": "Virginia",
+            "indexes": [
+                165
+            ]
+        },
+        "Oldbridge": {
+            "colony": "Jersey",
+            "indexes": [
+                169
+            ]
+        },
+        "Petersburg": {
+            "colony": "Virginia",
+            "indexes": [
+                171,
+                446,
+                447,
+                448
+            ]
+        },
+        "Harrington": {
+            "colony": "New Jersey",
+            "indexes": [
+                175
+            ]
+        },
+        "New Haven": {
+            "colony": "Connecticut",
+            "indexes": [
+                177,
+                1786
+            ]
+        },
+        "Stonington": {
+            "colony": "Connecticut",
+            "indexes": [
+                178
+            ]
+        },
+        "Isle of White": {
+            "colony": "Virginia",
+            "indexes": [
+                189,
+                1636
+            ]
+        },
+        "Williamsburgh": {
+            "colony": "Virginia",
+            "indexes": [
+                191,
+                391,
+                584,
+                1157,
+                1823,
+                1855,
+                2047,
+                2169,
+                2645,
+                2694,
+                2702
+            ]
+        },
+        "Dutchess County": {
+            "colony": "New York",
+            "indexes": [
+                192,
+                2322,
+                2537
+            ]
+        },
+        "Bergen": {
+            "colony": "New Jersey",
+            "indexes": [
+                199,
+                560,
+                561,
+                562,
+                1918,
+                1919,
+                1921,
+                2969,
+                2997
+            ]
+        },
+        "John's Island": {
+            "colony": "South Carolina",
+            "indexes": [
+                909,
+                1653,
+                1672,
+                1673,
+                2232,
+                2233,
+                2318,
+                2560,
+                2564,
+                2565,
+                2798,
+                2806,
+                2874
+            ]
+        },
+        "Brunswick": {
+            "colony": "New Jersey",
+            "indexes": [
+                1863,
+                2198
+            ]
+        },
+        "Worcester County": {
+            "colony": "Maryland",
+            "indexes": [
+                214
+            ]
+        },
+        "Wanda River": {
+            "colony": "South Carolina",
+            "indexes": [
+                215
+            ]
+        },
+        "Albany": {
+            "colony": null,
+            "indexes": [
+                1656,
+                2285
+            ]
+        },
+        "Crane Island": {
+            "colony": "Virginia",
+            "indexes": [
+                1789,
+                1897,
+                1898,
+                1900,
+                2677,
+                2699,
+                2709,
+                3063
+            ]
+        },
+        "Princess Ann County": {
+            "colony": "Virginia",
+            "indexes": [
+                221,
+                824,
+                1103,
+                1135,
+                1136,
+                1138,
+                1166,
+                1167,
+                1233,
+                1234,
+                1241,
+                1723,
+                1883,
+                2676,
+                3019
+            ]
+        },
+        "Gloster": {
+            "colony": "Virginia",
+            "indexes": [
+                232
+            ]
+        },
+        "Rockaway": {
+            "colony": null,
+            "indexes": [
+                244
+            ]
+        },
+        "Fishkill": {
+            "colony": "New York",
+            "indexes": [
+                253,
+                473,
+                1607
+            ]
+        },
+        "Monmouth": {
+            "colony": "New Jersey",
+            "indexes": [
+                254,
+                509,
+                510,
+                1068,
+                1069,
+                1071,
+                1677,
+                3007
+            ]
+        },
+        "Stoney Point": {
+            "colony": "New York",
+            "indexes": [
+                258
+            ]
+        },
+        "Ashley River": {
+            "colony": "South Carolina",
+            "indexes": [
+                270,
+                1846,
+                2808,
+                2845,
+                2878,
+                2989
+            ]
+        },
+        "fresh meadows": {
+            "colony": "Long Island",
+            "indexes": [
+                284
+            ]
+        },
+        "Wilmington": {
+            "colony": "North Carolina",
+            "indexes": [
+                286,
+                1062,
+                1116,
+                1144,
+                1857,
+                1895,
+                2239,
+                2811,
+                2812
+            ]
+        },
+        "Williamsburg": {
+            "colony": "Virginia",
+            "indexes": [
+                289,
+                398,
+                1245,
+                2688
+            ]
+        },
+        "James River": {
+            "colony": "Virginia",
+            "indexes": [
+                290,
+                555,
+                799,
+                1620,
+                1803,
+                2063,
+                2399,
+                2619,
+                2624,
+                2637,
+                2641,
+                2671,
+                2703,
+                3085
+            ]
+        },
+        "Wando River": {
+            "colony": null,
+            "indexes": [
+                292,
+                293
+            ]
+        },
+        "Hampton County": {
+            "colony": "Virginia",
+            "indexes": [
+                294,
+                2303
+            ]
+        },
+        "Western Shore": {
+            "colony": "Virginia",
+            "indexes": [
+                295
+            ]
+        },
+        "Eastern Shore": {
+            "colony": "Virginia",
+            "indexes": [
+                2966,
+                3030
+            ]
+        },
+        "Strasburg": {
+            "colony": "Pennsylvania",
+            "indexes": [
+                305,
+                306
+            ]
+        },
+        "Isle of Wight": {
+            "colony": "Virginia",
+            "indexes": [
+                1817,
+                1819
+            ]
+        },
+        "Nottingham": {
+            "colony": "Pennsylvania",
+            "indexes": [
+                315
+            ]
+        },
+        "Santee": {
+            "colony": "South Carolina",
+            "indexes": [
+                907,
+                2672,
+                2761,
+                2835,
+                2837,
+                2860,
+                2861,
+                2862
+            ]
+        },
+        "Nansemond": {
+            "colony": "Virginia",
+            "indexes": [
+                3075,
+                3076
+            ]
+        },
+        "Boston": {
+            "colony": "New England",
+            "indexes": [
+                3065,
+                3067
+            ]
+        },
+        "Hampstead": {
+            "colony": "Long Island",
+            "indexes": [
+                351
+            ]
+        },
+        "Newark": {
+            "colony": "New Jersey",
+            "indexes": [
+                817,
+                818,
+                1683,
+                1684,
+                1696,
+                1870
+            ]
+        },
+        "Chester": {
+            "colony": "New Jersey",
+            "indexes": [
+                1654
+            ]
+        },
+        "Greatbridge": {
+            "colony": "Virginia",
+            "indexes": [
+                376
+            ]
+        },
+        "Indian Land": {
+            "colony": "South Carolina",
+            "indexes": [
+                1989,
+                1990,
+                2829
+            ]
+        },
+        "Cowsatrachy": {
+            "colony": null,
+            "indexes": [
+                386,
+                388,
+                389,
+                390
+            ]
+        },
+        "Throgs Neck": {
+            "colony": "New York",
+            "indexes": [
+                393
+            ]
+        },
+        "Mulberry Island": {
+            "colony": "Virginia",
+            "indexes": [
+                401
+            ]
+        },
+        "North Castle": {
+            "colony": "New York",
+            "indexes": [
+                404
+            ]
+        },
+        "Tarrytown": {
+            "colony": "New York",
+            "indexes": [
+                406
+            ]
+        },
+        "Chesterfield": {
+            "colony": "Virginia",
+            "indexes": [
+                423
+            ]
+        },
+        "Woodbridge": {
+            "colony": "New Jersey",
+            "indexes": [
+                442,
+                2890
+            ]
+        },
+        "White Plains": {
+            "colony": null,
+            "indexes": [
+                2579
+            ]
+        },
+        "Plaisto": {
+            "colony": "New Hampshire",
+            "indexes": [
+                445
+            ]
+        },
+        "Great Bridge": {
+            "colony": "Virginia",
+            "indexes": [
+                449
+            ]
+        },
+        "Augusta County": {
+            "colony": "Virginia",
+            "indexes": [
+                452
+            ]
+        },
+        "Shrewsbury": {
+            "colony": "New Jersey",
+            "indexes": [
+                920,
+                2927
+            ]
+        },
+        "Augusta": {
+            "colony": null,
+            "indexes": [
+                462
+            ]
+        },
+        "Closters": {
+            "colony": "New Jersey",
+            "indexes": [
+                471
+            ]
+        },
+        "Morristown": {
+            "colony": "New Jersey",
+            "indexes": [
+                472,
+                2789
+            ]
+        },
+        "Duplin County": {
+            "colony": "North Carolina",
+            "indexes": [
+                511
+            ]
+        },
+        "New Milford": {
+            "colony": "New Jersey",
+            "indexes": [
+                816
+            ]
+        },
+        "Warwick": {
+            "colony": "Virginia",
+            "indexes": [
+                526
+            ]
+        },
+        "Yorktown": {
+            "colony": "Virginia",
+            "indexes": [
+                531,
+                728,
+                1205,
+                1256,
+                1613,
+                1671,
+                1938
+            ]
+        },
+        "Montauk": {
+            "colony": "Long Island",
+            "indexes": [
+                534,
+                2497
+            ]
+        },
+        "Monk's Corner": {
+            "colony": "South Carolina",
+            "indexes": [
+                535,
+                536
+            ]
+        },
+        "Leedstown": {
+            "colony": "Virginia",
+            "indexes": [
+                545
+            ]
+        },
+        "Bergen County": {
+            "colony": "New Jersey",
+            "indexes": [
+                554,
+                1699,
+                2158,
+                2515,
+                2852,
+                2853,
+                2854
+            ]
+        },
+        "Second river": {
+            "colony": "New Jersey",
+            "indexes": [
+                559
+            ]
+        },
+        "Passaic County": {
+            "colony": "New Jersey",
+            "indexes": [
+                563,
+                1700,
+                1714,
+                1715,
+                1716,
+                1717,
+                1722,
+                2425,
+                2426
+            ]
+        },
+        "Amboy": {
+            "colony": "New Jersey",
+            "indexes": [
+                568,
+                569,
+                570
+            ]
+        },
+        "Flushing": {
+            "colony": "Long Island",
+            "indexes": [
+                575,
+                2948
+            ]
+        },
+        "Annapolis": {
+            "colony": null,
+            "indexes": [
+                2494,
+                2495
+            ]
+        },
+        "Rappahannock river": {
+            "colony": "Virginia",
+            "indexes": [
+                587
+            ]
+        },
+        "Swansey": {
+            "colony": "Massachusetts",
+            "indexes": [
+                591
+            ]
+        },
+        "Freetown": {
+            "colony": "Massachusetts",
+            "indexes": [
+                592
+            ]
+        },
+        "Swanzey": {
+            "colony": "Massachusetts",
+            "indexes": [
+                593
+            ]
+        },
+        "Nansemond County": {
+            "colony": "Virginia",
+            "indexes": [
+                603,
+                606,
+                915
+            ]
+        },
+        "Norfolk County": {
+            "colony": "Virginia",
+            "indexes": [
+                604,
+                605,
+                1076,
+                1077,
+                1080,
+                1084,
+                1087,
+                1088,
+                1089,
+                1090,
+                1091,
+                1092,
+                1095,
+                1097,
+                1113,
+                1127,
+                1128,
+                1129,
+                1164,
+                1165,
+                1170,
+                1171,
+                1173,
+                1174,
+                1175,
+                1176,
+                1177,
+                1212,
+                1218,
+                1220,
+                1221,
+                1223,
+                1225,
+                1237,
+                1772,
+                1773,
+                1774,
+                1784,
+                1790,
+                1791,
+                2337,
+                2733,
+                3017,
+                3018,
+                3071,
+                3073,
+                3074
+            ]
+        },
+        "Sullivan's Island": {
+            "colony": "South Carolina",
+            "indexes": [
+                610
+            ]
+        },
+        "Black river": {
+            "colony": "Virginia",
+            "indexes": [
+                1946
+            ]
+        },
+        "Boundbrook": {
+            "colony": "New Jersey",
+            "indexes": [
+                636
+            ]
+        },
+        "Cape Fear": {
+            "colony": "North Carolina",
+            "indexes": [
+                640,
+                900,
+                1845,
+                2814
+            ]
+        },
+        "Bucks County": {
+            "colony": "Pennsylvania",
+            "indexes": [
+                652
+            ]
+        },
+        "Hawiskak": {
+            "colony": "Virginia",
+            "indexes": [
+                656
+            ]
+        },
+        "Lancaster County": {
+            "colony": "Virginia",
+            "indexes": [
+                1208
+            ]
+        },
+        "Fredricksburg": {
+            "colony": null,
+            "indexes": [
+                672
+            ]
+        },
+        "Hempstead": {
+            "colony": "Long Island",
+            "indexes": [
+                678
+            ]
+        },
+        "Potomack": {
+            "colony": "Virginia",
+            "indexes": [
+                679
+            ]
+        },
+        "Stafford County": {
+            "colony": "Virginia",
+            "indexes": [
+                680
+            ]
+        },
+        "Northumberland County": {
+            "colony": "Virginia",
+            "indexes": [
+                687,
+                1046,
+                1047,
+                1106,
+                1146,
+                1149,
+                1206,
+                1210,
+                1713,
+                2019
+            ]
+        },
+        "Northampton County Virginia": {
+            "colony": "Virginia",
+            "indexes": [
+                688
+            ]
+        },
+        "Accomack": {
+            "colony": "Virginia",
+            "indexes": [
+                689,
+                690,
+                729,
+                1611,
+                1962,
+                2735
+            ]
+        },
+        "Trenton": {
+            "colony": "New Jersey",
+            "indexes": [
+                691
+            ]
+        },
+        "Cherrystone": {
+            "colony": "Virginia",
+            "indexes": [
+                696,
+                1685
+            ]
+        },
+        "Stratford": {
+            "colony": "Connecticut",
+            "indexes": [
+                701
+            ]
+        },
+        "Brooklyn": {
+            "colony": "Long Island",
+            "indexes": [
+                1967
+            ]
+        },
+        "Greenwich": {
+            "colony": "Connecticut",
+            "indexes": [
+                752,
+                753,
+                981,
+                1949
+            ]
+        },
+        "Rantowles": {
+            "colony": "South Carolina",
+            "indexes": [
+                754
+            ]
+        },
+        "Mansfield": {
+            "colony": "New Jersey",
+            "indexes": [
+                759
+            ]
+        },
+        "Clarendon": {
+            "colony": "New York",
+            "indexes": [
+                760
+            ]
+        },
+        "Norhumberland County": {
+            "colony": "Virginia",
+            "indexes": [
+                762
+            ]
+        },
+        "Somersett County": {
+            "colony": "Virginia",
+            "indexes": [
+                772
+            ]
+        },
+        "Poughkeepsie": {
+            "colony": "New York",
+            "indexes": [
+                783,
+                2996
+            ]
+        },
+        "Gwynn's Island": {
+            "colony": "Virginia",
+            "indexes": [
+                801,
+                2710
+            ]
+        },
+        "Burlington": {
+            "colony": "New Jersey",
+            "indexes": [
+                807
+            ]
+        },
+        "Neward": {
+            "colony": "New Jersey",
+            "indexes": [
+                814
+            ]
+        },
+        "Waterbury": {
+            "colony": "Connecticut",
+            "indexes": [
+                821
+            ]
+        },
+        "Springfield": {
+            "colony": "New Jersey",
+            "indexes": [
+                2978
+            ]
+        },
+        "Princetown": {
+            "colony": "New Jersey",
+            "indexes": [
+                2904
+            ]
+        },
+        "Horntown Eastern Shore": {
+            "colony": "Virginia",
+            "indexes": [
+                840
+            ]
+        },
+        "Nansemum": {
+            "colony": "Virginia",
+            "indexes": [
+                844
+            ]
+        },
+        "Newcastle County": {
+            "colony": null,
+            "indexes": [
+                2903
+            ]
+        },
+        "Dorchester": {
+            "colony": "South Carolina",
+            "indexes": [
+                850,
+                2376
+            ]
+        },
+        "Chester County": {
+            "colony": "Pennsylvania",
+            "indexes": [
+                862
+            ]
+        },
+        "Suffolk town": {
+            "colony": "Virginia",
+            "indexes": [
+                869
+            ]
+        },
+        "Georgetown": {
+            "colony": "Virginia",
+            "indexes": [
+                2689
+            ]
+        },
+        "West Chester County": {
+            "colony": null,
+            "indexes": [
+                1051,
+                1052,
+                1053
+            ]
+        },
+        "Esopus": {
+            "colony": "New York",
+            "indexes": [
+                1658
+            ]
+        },
+        "East Chester": {
+            "colony": null,
+            "indexes": [
+                2164
+            ]
+        },
+        "River St. John's": {
+            "colony": null,
+            "indexes": [
+                906,
+                913,
+                916,
+                917,
+                918,
+                961,
+                962,
+                1025,
+                1033,
+                1034,
+                1050,
+                1057,
+                1058
+            ]
+        },
+        "Middlesex": {
+            "colony": "Virginia",
+            "indexes": [
+                926
+            ]
+        },
+        "Chesterfield County": {
+            "colony": "Virginia",
+            "indexes": [
+                932
+            ]
+        },
+        "Suffolk": {
+            "colony": "Virginia",
+            "indexes": [
+                940,
+                2344
+            ]
+        },
+        "4 Mile Creek": {
+            "colony": "Virginia",
+            "indexes": [
+                958
+            ]
+        },
+        "Stono": {
+            "colony": "South Carolina",
+            "indexes": [
+                963,
+                1982,
+                2071,
+                2102
+            ]
+        },
+        "Stamford": {
+            "colony": "Connecticut",
+            "indexes": [
+                975,
+                1948,
+                1950,
+                2581
+            ]
+        },
+        "produces Gen": {
+            "colony": "Long Island",
+            "indexes": [
+                977
+            ]
+        },
+        "Secaucus": {
+            "colony": "New Jersey",
+            "indexes": [
+                1002
+            ]
+        },
+        "Dorset County": {
+            "colony": "Maryland",
+            "indexes": [
+                1031,
+                1242
+            ]
+        },
+        "Cecil County": {
+            "colony": "Maryland",
+            "indexes": [
+                2347,
+                2907,
+                2974
+            ]
+        },
+        "Sinepuxent": {
+            "colony": "Maryland",
+            "indexes": [
+                1045
+            ]
+        },
+        "Providence": {
+            "colony": null,
+            "indexes": [
+                1610
+            ]
+        },
+        "White Bluff of Georgia": {
+            "colony": "Georgia",
+            "indexes": [
+                1061
+            ]
+        },
+        "Petersburgh": {
+            "colony": "Virginia",
+            "indexes": [
+                1066,
+                1213,
+                1778
+            ]
+        },
+        "Nancymond": {
+            "colony": "Virginia",
+            "indexes": [
+                1075,
+                1859
+            ]
+        },
+        "Gloucester County": {
+            "colony": "Virginia",
+            "indexes": [
+                1079,
+                1109,
+                1239
+            ]
+        },
+        "Isle of White County": {
+            "colony": "Virginia",
+            "indexes": [
+                1085
+            ]
+        },
+        "Suffolk County": {
+            "colony": "Virginia",
+            "indexes": [
+                1094,
+                1228,
+                1243,
+                1250,
+                1642,
+                1783,
+                1970,
+                2292
+            ]
+        },
+        "Eastern shore": {
+            "colony": "Virginia",
+            "indexes": [
+                1100,
+                1154,
+                1211,
+                1582,
+                1801,
+                2589,
+                2592
+            ]
+        },
+        "Bladen County": {
+            "colony": "North Carolina",
+            "indexes": [
+                1101
+            ]
+        },
+        "Prince George County": {
+            "colony": "Virginia",
+            "indexes": [
+                1105,
+                1139,
+                2278,
+                2586
+            ]
+        },
+        "Cross creek": {
+            "colony": "Carolina",
+            "indexes": [
+                1121
+            ]
+        },
+        "Charles city": {
+            "colony": "Virginia",
+            "indexes": [
+                1181
+            ]
+        },
+        "George County": {
+            "colony": "Virginia",
+            "indexes": [
+                1203
+            ]
+        },
+        "Lancaster": {
+            "colony": "Virginia",
+            "indexes": [
+                1204
+            ]
+        },
+        "Rye": {
+            "colony": "New England",
+            "indexes": [
+                2666
+            ]
+        },
+        "Northampton County": {
+            "colony": "Virginia",
+            "indexes": [
+                1248,
+                1907,
+                2151,
+                2166,
+                2908
+            ]
+        },
+        "Isle of Wight county": {
+            "colony": "Virginia",
+            "indexes": [
+                1249,
+                1568
+            ]
+        },
+        "Amelia county": {
+            "colony": "Virginia",
+            "indexes": [
+                1251
+            ]
+        },
+        "Isle of Wight County": {
+            "colony": "Virginia",
+            "indexes": [
+                1254
+            ]
+        },
+        "Accomack county": {
+            "colony": "Virginia",
+            "indexes": [
+                1255
+            ]
+        },
+        "Strafford": {
+            "colony": "Virginia",
+            "indexes": [
+                1566
+            ]
+        },
+        "Craney Island": {
+            "colony": "Virginia",
+            "indexes": [
+                1567,
+                2646,
+                2647,
+                2648
+            ]
+        },
+        "Tanners Creek": {
+            "colony": "Virginia",
+            "indexes": [
+                1569
+            ]
+        },
+        "East Chester County": {
+            "colony": "New York",
+            "indexes": [
+                1574
+            ]
+        },
+        "the Isle of Wight County": {
+            "colony": "Virginia",
+            "indexes": [
+                1599
+            ]
+        },
+        "Marroneck": {
+            "colony": "New York",
+            "indexes": [
+                1633,
+                1635
+            ]
+        },
+        "Pond Pond": {
+            "colony": "South Carolina",
+            "indexes": [
+                1651
+            ]
+        },
+        "Livingston Manor": {
+            "colony": null,
+            "indexes": [
+                1666
+            ]
+        },
+        "Port Royall": {
+            "colony": "North Carolina",
+            "indexes": [
+                1670
+            ]
+        },
+        "Southern branch": {
+            "colony": "Virginia",
+            "indexes": [
+                1674
+            ]
+        },
+        "Valley Forge": {
+            "colony": "Pennsylvania",
+            "indexes": [
+                2625,
+                2894
+            ]
+        },
+        "Mecklenburgh": {
+            "colony": "Virginia",
+            "indexes": [
+                1678
+            ]
+        },
+        "Cumberland County": {
+            "colony": "Virginia",
+            "indexes": [
+                1686
+            ]
+        },
+        "Montreal": {
+            "colony": null,
+            "indexes": [
+                1688
+            ]
+        },
+        "King William County": {
+            "colony": "Virginia",
+            "indexes": [
+                1693
+            ]
+        },
+        "Newcastle": {
+            "colony": "Pennsylvania",
+            "indexes": [
+                1704
+            ]
+        },
+        "Newtown": {
+            "colony": "Long Island",
+            "indexes": [
+                2305
+            ]
+        },
+        "Virginia Beach": {
+            "colony": "Virginia",
+            "indexes": [
+                1711
+            ]
+        },
+        "Wayne": {
+            "colony": "New Jersey",
+            "indexes": [
+                1720
+            ]
+        },
+        "Gloucester": {
+            "colony": "Virginia",
+            "indexes": [
+                1721,
+                2018,
+                3079,
+                3081
+            ]
+        },
+        "Western branch": {
+            "colony": "Virginia",
+            "indexes": [
+                1775,
+                1776,
+                1904
+            ]
+        },
+        "Grimes": {
+            "colony": "Virginia",
+            "indexes": [
+                1792
+            ]
+        },
+        "Lower Marlborough": {
+            "colony": "Maryland",
+            "indexes": [
+                1794
+            ]
+        },
+        "Northampton": {
+            "colony": "Virginia",
+            "indexes": [
+                1795,
+                1796,
+                1800,
+                1805,
+                1806,
+                1808,
+                1935,
+                2003
+            ]
+        },
+        "Beaufort": {
+            "colony": "South Carolina",
+            "indexes": [
+                1804,
+                2083,
+                2621,
+                2719,
+                2720
+            ]
+        },
+        "Newport": {
+            "colony": "Rhode Island",
+            "indexes": [
+                1810,
+                2572
+            ]
+        },
+        "Gosport": {
+            "colony": "Virginia",
+            "indexes": [
+                1822
+            ]
+        },
+        "Mamaroneck": {
+            "colony": "New York",
+            "indexes": [
+                1838
+            ]
+        },
+        "James Island": {
+            "colony": "South Carolina",
+            "indexes": [
+                1853,
+                1858,
+                2028,
+                2875
+            ]
+        },
+        "Haverstraw": {
+            "colony": "New Jersey",
+            "indexes": [
+                1874
+            ]
+        },
+        "Northumberland": {
+            "colony": "Virginia",
+            "indexes": [
+                1879
+            ]
+        },
+        "Watsessing river": {
+            "colony": "New Jersey",
+            "indexes": [
+                1880
+            ]
+        },
+        "Bellingsport": {
+            "colony": "New Jersey",
+            "indexes": [
+                1936
+            ]
+        },
+        "Gloster County": {
+            "colony": "Virginia",
+            "indexes": [
+                1937,
+                2684
+            ]
+        },
+        "Huntington": {
+            "colony": "Long Island",
+            "indexes": [
+                1951,
+                2270,
+                2519
+            ]
+        },
+        "Tinker's Creek": {
+            "colony": "South Carolina",
+            "indexes": [
+                1999
+            ]
+        },
+        "Buckingham County": {
+            "colony": "Virginia",
+            "indexes": [
+                2007
+            ]
+        },
+        "Salem": {
+            "colony": "Massachusetts",
+            "indexes": [
+                2008
+            ]
+        },
+        "Masters Bluff": {
+            "colony": "South Carolina",
+            "indexes": [
+                2027
+            ]
+        },
+        "Middletown of New Jersey": {
+            "colony": "New Jersey",
+            "indexes": [
+                2034
+            ]
+        },
+        "Cherry point": {
+            "colony": "Virginia",
+            "indexes": [
+                2035,
+                2038
+            ]
+        },
+        "Totowa": {
+            "colony": "New Jersey",
+            "indexes": [
+                2037,
+                2423
+            ]
+        },
+        "Jericho": {
+            "colony": "Long Island",
+            "indexes": [
+                2045
+            ]
+        },
+        "Bedford": {
+            "colony": "Long Island",
+            "indexes": [
+                2066
+            ]
+        },
+        "Salem Township": {
+            "colony": "New Jersey",
+            "indexes": [
+                2107
+            ]
+        },
+        "Ninety Six": {
+            "colony": "South Carolina",
+            "indexes": [
+                2147
+            ]
+        },
+        "Perryville": {
+            "colony": "Maryland",
+            "indexes": [
+                2149
+            ]
+        },
+        "Halifax": {
+            "colony": "North Carolina",
+            "indexes": [
+                2160
+            ]
+        },
+        "Prince George": {
+            "colony": "Virginia",
+            "indexes": [
+                2168
+            ]
+        },
+        "Camden": {
+            "colony": "South Carolina",
+            "indexes": [
+                2184,
+                2185
+            ]
+        },
+        "Danbury": {
+            "colony": "Connecticut",
+            "indexes": [
+                2186
+            ]
+        },
+        "New Kent": {
+            "colony": "Virginia",
+            "indexes": [
+                2228
+            ]
+        },
+        "New Market": {
+            "colony": "New Jersey",
+            "indexes": [
+                2240
+            ]
+        },
+        "Wappoo Creek": {
+            "colony": "South Carolina",
+            "indexes": [
+                2268
+            ]
+        },
+        "James's Island": {
+            "colony": "South Carolina",
+            "indexes": [
+                2311
+            ]
+        },
+        "Oyster Bay": {
+            "colony": null,
+            "indexes": [
+                2321
+            ]
+        },
+        "Port Royal": {
+            "colony": "South Carolina",
+            "indexes": [
+                2327,
+                2330
+            ]
+        },
+        "Rocky Hill": {
+            "colony": "New Jersey",
+            "indexes": [
+                2333
+            ]
+        },
+        "Smithfield": {
+            "colony": "Virginia",
+            "indexes": [
+                2345,
+                2348,
+                2773
+            ]
+        },
+        "Milstone": {
+            "colony": "New Jersey",
+            "indexes": [
+                2373
+            ]
+        },
+        "Westbranch": {
+            "colony": "Virginia",
+            "indexes": [
+                2421
+            ]
+        },
+        "Pigs point": {
+            "colony": "Virginia",
+            "indexes": [
+                2422
+            ]
+        },
+        "New Rochelle": {
+            "colony": null,
+            "indexes": [
+                2453
+            ]
+        },
+        "Orangetown": {
+            "colony": null,
+            "indexes": [
+                2476
+            ]
+        },
+        "Horseshoe": {
+            "colony": "South Carolina",
+            "indexes": [
+                2478
+            ]
+        },
+        "Phillipsburgh": {
+            "colony": "New York",
+            "indexes": [
+                2480
+            ]
+        },
+        "Monmouth County": {
+            "colony": "New Jersey",
+            "indexes": [
+                2487
+            ]
+        },
+        "Cortlandts Manor": {
+            "colony": null,
+            "indexes": [
+                2489
+            ]
+        },
+        "Morrisanaia": {
+            "colony": "New York",
+            "indexes": [
+                2501
+            ]
+        },
+        "Westmoreland": {
+            "colony": "Virginia",
+            "indexes": [
+                2540
+            ]
+        },
+        "Southampton": {
+            "colony": "Virginia",
+            "indexes": [
+                2546,
+                2551
+            ]
+        },
+        "Harlem": {
+            "colony": null,
+            "indexes": [
+                2577
+            ]
+        },
+        "Edisto": {
+            "colony": "South Carolina",
+            "indexes": [
+                2617,
+                2638,
+                2639,
+                2640
+            ]
+        },
+        "Santee river": {
+            "colony": "South Carolina",
+            "indexes": [
+                2618,
+                2740,
+                2797
+            ]
+        },
+        "Upper Town Creek": {
+            "colony": "North Carolina",
+            "indexes": [
+                2626,
+                2627
+            ]
+        },
+        "Sterling": {
+            "colony": "New Jersey",
+            "indexes": [
+                2673
+            ]
+        },
+        "Accomack County": {
+            "colony": "Virginia",
+            "indexes": [
+                2678,
+                2680
+            ]
+        },
+        "Richmond County": {
+            "colony": "Virginia",
+            "indexes": [
+                2682
+            ]
+        },
+        "Patuxent": {
+            "colony": "Virginia",
+            "indexes": [
+                2759
+            ]
+        },
+        "Goshen": {
+            "colony": null,
+            "indexes": [
+                2772
+            ]
+        },
+        "Back river": {
+            "colony": "Virginia",
+            "indexes": [
+                2774
+            ]
+        },
+        "Newburgh": {
+            "colony": "North Carolina",
+            "indexes": [
+                2775
+            ]
+        },
+        "Ashepoo": {
+            "colony": "South Carolina",
+            "indexes": [
+                2815,
+                2816
+            ]
+        },
+        "Goose Creek": {
+            "colony": "South Carolina",
+            "indexes": [
+                2836,
+                2864,
+                2865,
+                2866,
+                2867
+            ]
+        },
+        "Narraganset": {
+            "colony": null,
+            "indexes": [
+                2841
+            ]
+        },
+        "Peedee": {
+            "colony": "South Carolina",
+            "indexes": [
+                2842
+            ]
+        },
+        "Mill town": {
+            "colony": "South Carolina",
+            "indexes": [
+                2877
+            ]
+        },
+        "Surry": {
+            "colony": "Virginia",
+            "indexes": [
+                2909
+            ]
+        },
+        "Rhaway": {
+            "colony": "New Jersey",
+            "indexes": [
+                2922,
+                2990
+            ]
+        },
+        "Willoughby Point": {
+            "colony": null,
+            "indexes": [
+                2926
+            ]
+        },
+        "Kent County": {
+            "colony": "Maryland",
+            "indexes": [
+                2973
+            ]
+        },
+        "Borough of Carteret": {
+            "colony": "New Jersey",
+            "indexes": [
+                2975
+            ]
+        },
+        "Allentown": {
+            "colony": "New Jersey",
+            "indexes": [
+                2987
+            ]
+        },
+        "Piscataway": {
+            "colony": "New Jersey",
+            "indexes": [
+                3002,
+                3003
+            ]
+        },
+        "Reading": {
+            "colony": "Pennsylvania",
+            "indexes": [
+                3009,
+                3046
+            ]
+        },
+        "Wando": {
+            "colony": "South Carolina",
+            "indexes": [
+                3015
+            ]
+        },
+        "Elkton": {
+            "colony": "Maryland",
+            "indexes": [
+                3034
+            ]
+        },
+        "Newport News": {
+            "colony": "Virginia",
+            "indexes": [
+                3045
+            ]
+        },
+        "New Windson": {
+            "colony": "New York",
+            "indexes": [
+                3062
+            ]
+        },
+        "Princes Ann County": {
+            "colony": "Virginia",
+            "indexes": [
+                3070
+            ]
+        }
+    }
+}
