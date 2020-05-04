@@ -1,0 +1,1602 @@
+[
+    {
+        "index": 10,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Free Negress indented to Mrs. Sharp for one year.",
+        "ship": {
+            "name": "Aurora bound for St. John's",
+            "destination": "St. John's"
+        }
+    },
+    {
+        "index": 47,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Abraham &amp; 21, stout man, (Mr. Edwards). Property of Gideon White but allowed to go with Mr. Edwards to Nova Scotia.",
+        "ship": {
+            "name": "Peggy",
+            "destination": "Port Roseway"
+        }
+    },
+    {
+        "index": 149,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Ruth his wife, (age not listed), (Mr, Dewit). Formerly slave to Henry Corneck, Virginia; left him about 6 years ago.",
+        "ship": {
+            "name": "Polly",
+            "destination": "Port Roseway"
+        }
+    },
+    {
+        "index": 158,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "&nbsp;",
+        "ship": {
+            "name": "Polly",
+            "destination": "Port Roseway"
+        }
+    },
+    {
+        "index": 160,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "&nbsp;",
+        "ship": {
+            "name": "Polly",
+            "destination": "Port Roseway"
+        }
+    },
+    {
+        "index": 229,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "James Jackson 50, thin, goes as pilot (Capt. Mowat). Formerly slave to late Robert Tucker, Norfolk, Virginia; left him with Lord Dunmore when he left that country &amp; was employed as a pilot.",
+        "ship": {
+            "name": "Ann",
+            "destination": "Port Roseway"
+        }
+    },
+    {
+        "index": 236,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Zolpher Jackson, ½. Formerly slave to Luke Sheets, New York, who left him there in the year 1782; sent on board the Thetis.",
+        "ship": {
+            "name": "Ann",
+            "destination": "Port Roseway"
+        }
+    },
+    {
+        "index": 257,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Harry 23, stout, John Anderson of Port Roseway, claimant. (John Anderson). Purchased as per Bill of Sale from Medcalf Eden, New York; born on Staten Island.",
+        "ship": {
+            "name": "Ann",
+            "destination": "Port Roseway"
+        }
+    },
+    {
+        "index": 367,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Sally Dixon, stout wench, mulatto, (William McLeod). Formerly slave to Willis Wilkinson, Nansemond, Virginia; left him about 4 years past.",
+        "ship": {
+            "name": "Blacket",
+            "destination": "Port Roseway"
+        }
+    },
+    {
+        "index": 384,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Charles, (Andrew Barclay). Came from Jamaica, can't understand him. ",
+        "ship": {
+            "name": "Blacket",
+            "destination": "Port Roseway"
+        }
+    },
+    {
+        "index": 412,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "James James, ¾ ¼ M, (William Chetwine). ",
+        "ship": {
+            "name": "Elizabeth",
+            "destination": "Port Roseway"
+        }
+    },
+    {
+        "index": 432,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "John Piggot, their son, 18, stout fellow, B, (John Stewart). Says he was born free at Massanacchus nigh Hackensack, Jersey; left it 9 years ago.",
+        "ship": {
+            "name": "Grace",
+            "destination": "Port Roseway"
+        }
+    },
+    {
+        "index": 433,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Casar Piggot, their son, 99, fine boy, (John Stewart). Says he was born free.",
+        "ship": {
+            "name": "Grace",
+            "destination": "Port Roseway"
+        }
+    },
+    {
+        "index": 434,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Isaac James, stout fellow, B, blind left eye, (Hugh Eagle). Formerly slave to George Wilson of Boston, taken about 3 years old when his master was killed.",
+        "ship": {
+            "name": "Grace",
+            "destination": "Port Roseway"
+        }
+    },
+    {
+        "index": 783,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "23, stout fellow, (Richard Vanderborough). Formerly slave to Leonard Van Klock at Poughkeepsie; left him 5 years ago.",
+        "ship": {
+            "name": "Little Dale",
+            "destination": "St. John's"
+        }
+    },
+    {
+        "index": 808,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In pursuance of two orders from His Excellency Sir Guy Carleton K. B. General and Commander in Chief of His Majesty's Forces from Nova Scotia to West Florida inclusive, both dated Head Quarters, New York, the one 15 April 1783 and the other 2nd May, We whose names are hereunto subscribed do certify that we did carefully inspect the aforegoing Vessels on the 13th June 1783 and that on board the said vessels we found the Negroes mentioned in the foregoing List amounting to sixty eight men, twenty seven woman and fifty one children and to the best of our Judgment believe them to be all the Negroes on board the said vessels and we enquired of the Master of each Vessel whether he had any Records, Deeds, Archives or papers or other property of the Citizens of the United States on board and to each Enquiry We were answered in the negative. And we further certify that We furnished each master of a Vessel with a Certified List of the Negroes on board the Vessel and informed him that he would not be permitted to Land in Nova Scotia any other Negroes than those contained on the List and that if any other Negroes were found on board the Vessel he would be severely punished and that We informed the Agent for the Transports of this matter and desired him to use means for returning back to this place all Negroes not mentioned in the List. ",
+        "ship": {
+            "name": "Dutchess of Gordon",
+            "destination": "St. John's"
+        }
+    },
+    {
+        "index": 809,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "[Signed] Present at the above Inspection on the Part of the United States: Egbert Benson; W.S. Smith, Lieut. Col.; Nathaniel Philips, M.D.; Daniel Parker; T. Gilfillan, DQM Gen.; Wilbar Cook, Capt. 27 Reg't.; William Armstrong; Samuel Jones, Secretary.",
+        "ship": {
+            "name": "Dutchess of Gordon",
+            "destination": "St. John's"
+        }
+    },
+    {
+        "index": 810,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "25 June 1783",
+        "ship": {
+            "name": "Dutchess of Gordon",
+            "destination": "St. John's"
+        }
+    },
+    {
+        "index": 834,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In pursuance of two orders from His Excellency Sir Guy Carleton K. B. General and Commander in Chief of His Majesty's Forces from Nova Scotia to West Florida inclusive, both dated Head Quarters, New York, the one 15 April 1783 and the other 2nd May, We whose names are hereunto subscribed do certify that we did carefully inspect the aforegoing Vessels on the 13th June 1783 and that on board the said vessels we found the negroes mentioned in the foregoing List amounting to ten men, five woman and five children and to the best of our Judgment believe them to be all the negroes on board the said vessels and we enquired of the Master of each Vessel whether he had any Records, Deeds, Archives or papers or other property of the Citizens of the United States on board and to each Enquiry We were answered in the negative. And we further certify that We furnished each master of a Vessel with a Certified List of the Negroes on board the Vessel and informed him that he would not be permitted to Land in Nova Scotia any other Negroes than those contained on the List and that if any other negroes were found on board the Vessel he would be severely punished and that We informed the Agent for the Transports of this matter and desired him to use means for returning back to this place all negroes not mentioned in the List. ",
+        "ship": {
+            "name": "Lydia",
+            "destination": "Annapolis"
+        }
+    },
+    {
+        "index": 835,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "[Signed]: Present at the above Inspection on Behalf of the United States: Daniel Parker; Samuel Jones, Sec'y.; Wilbar Cook, Capt. 37 Regiment; P. Armstrong, DJQM Gen.",
+        "ship": {
+            "name": "Lydia",
+            "destination": "Annapolis"
+        }
+    },
+    {
+        "index": 871,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Nancy Haynes, ½, B.",
+        "ship": {
+            "name": "Mars",
+            "destination": "Port"
+        }
+    },
+    {
+        "index": 896,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "8th July 1783",
+        "ship": {
+            "name": "Elizabeth",
+            "destination": "St. John's"
+        }
+    },
+    {
+        "index": 902,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Anna 27, stout wench, (Thomas Wolverton). Formerly slave to Edmund Warde of East Chester in the province of New York; left him near 7 years ago.",
+        "ship": {
+            "name": "ownshend",
+            "destination": "St. John's"
+        }
+    },
+    {
+        "index": 941,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Ben Grey, stout fellow, (Robert Wilson). Formerly slave to Peter Lusam of Georgetown, South Carolina; left him 2 years ago.",
+        "ship": {
+            "name": "Montague",
+            "destination": "River"
+        }
+    },
+    {
+        "index": 947,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": " Click here for the other half of Book one.  ",
+        "ship": {
+            "name": "Esther",
+            "destination": "Port Roseway"
+        }
+    },
+    {
+        "index": 948,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "",
+        "ship": {
+            "name": "Esther",
+            "destination": "Port Roseway"
+        }
+    },
+    {
+        "index": 966,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "&nbsp;In pursuance of two orders from His Excellency Sir Guy Carleton K. B. General and Commander in Chief of His Majesty's Forces from Nova Scotia to West Florida inclusive, both dated Head Quarters, New York, the one 15 April 1783 and the other 2nd May, We whose names are hereunto subscribed do certify that we did carefully inspect the aforegoing Vessels on the 13th June 1783 and that on board the said vessels we found the Negroes mentioned in the foregoing List amounting to forty four men, twenty nine Women and thirty two Children and to the best of our Judgment believe them to be all the Negroes on board the said vessels and we enquired of the Master of each Vessel whether he had any Records, Deeds, Archives or papers or other property of the Citizens of the United States on board and to each Enquiry We were answered in the negative. And we further certify that We furnished each master of a Vessel with a Certified List of the Negroes on board the Vessel and informed him that he would not be permitted to Land in Nova Scotia any other Negroes than those contained on the List and that if any other Negroes were found on board the Vessel he would be severely punished and that We informed the Agent for the Transports of this matter and desired him to use means for returning back to this place all Negroes not mentioned in the List.",
+        "ship": {
+            "name": "Elizabeth",
+            "destination": "River"
+        }
+    },
+    {
+        "index": 967,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "[Signed]: W.S. Smith, colonel; Samuel Jones, Secretary; Wilbar Cook, Capt 37th Reg't; Nathaniel Phillips; T. Gilfillan.",
+        "ship": {
+            "name": "Elizabeth",
+            "destination": "River"
+        }
+    },
+    {
+        "index": 968,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "10 July 1783",
+        "ship": {
+            "name": "Elizabeth",
+            "destination": "River"
+        }
+    },
+    {
+        "index": 1011,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In pursuance of two orders from His Excellency Sir Guy Carleton K. B. General and Commander in Chief of His Majesty's Forces from Nova Scotia to West Florida inclusive, both dated Head Quarters, New York, the one 15 April 1783 and the other 2nd May, We whose names are hereunto subscribed do certify that we did carefully inspect the aforegoing Vessels on the 13th June 1783 and that on board the said vessels we found the Negroes mentioned in the foregoing List amounting to fourteen men, Eleven Woman and nine children and to the best of our Judgment believe them to be all the Negroes on board the said vessels and we enquired of the Master of each Vessel whether he had any Records, Deeds, Archives or papers or other property of the Citizens of the United States on board and to each Enquiry We were answered in the negative. And we further certify that We furnished each master of a Vessel with a Certified List of the Negroes on board the Vessel and informed him that he would not be permitted to Land in Nova Scotia any other Negroes than those contained on the List and that if any other Negroes were found on board the Vessel he would be severely punished and that We informed the Agent for the Transports of this matter and desired him to use means for returning back to this place all Negroes not mentioned in the List.",
+        "ship": {
+            "name": "Trident",
+            "destination": "Bremer"
+        }
+    },
+    {
+        "index": 1012,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Transports of this matter and desired him to use means for returning back to this place all Negroes not mentioned in the Lists. ",
+        "ship": {
+            "name": "Trident",
+            "destination": "Bremer"
+        }
+    },
+    {
+        "index": 1013,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "[Signed]: W.S. Smith; Samuel Jones, Secretary; Wilbar Cook, Captain 37th Regiment; T. Gilfillan, DQM Gen.",
+        "ship": {
+            "name": "Trident",
+            "destination": "Bremer"
+        }
+    },
+    {
+        "index": 1014,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "29 July 1783",
+        "ship": {
+            "name": "Trident",
+            "destination": "Bremer"
+        }
+    },
+    {
+        "index": 1257,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "&nbsp;",
+        "ship": {
+            "name": "Clinton",
+            "destination": "Annapolis"
+        }
+    },
+    {
+        "index": 1275,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "&nbsp;In pursuance of two orders from His Excellency Sir Guy Carleton K. B. General and Commander in Chief of His Majesty's Forces from Nova Scotia to West Florida inclusive, both dated Head Quarters, New York, the one 15 April 1783 and the other 2nd May, We whose names are hereunto subscribed do certify that we did carefully inspect the aforegoing Vessels on the 13th June 1783 and that on board the said vessels we found the Negroes mentioned in the foregoing List amounting to forty four men, twenty nine Women and thirty two Children and to the best of our Judgment believe them to be all the Negroes on board the said vessels and we enquired of the Master of each Vessel whether he had any Records, Deeds, Archives or papers or other property of the Citizens of the United States on board and to each Enquiry We were answered in the negative. And we further certify that We furnished each master of a Vessel with a Certified List of the Negroes on board the Vessel and informed him that he would not be permitted to Land in Nova Scotia any other Negroes than those contained on the List and that if any other Negroes were found on board the Vessel he would be severely punished and that We informed the Agent for the Transports of this matter and desired him to use means for returning back to this place all Negroes not mentioned in the List.",
+        "ship": {
+            "name": "Elizabeth",
+            "destination": "River"
+        }
+    },
+    {
+        "index": 1276,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "[Signed]: W.S. Smith, colonel; Samuel Jones, Secretary; Wilbar Cook, Capt 37th Reg't; Nathaniel Phillips; T. Gilfillan.",
+        "ship": {
+            "name": "Elizabeth",
+            "destination": "River"
+        }
+    },
+    {
+        "index": 1277,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "10 July 1783",
+        "ship": {
+            "name": "Elizabeth",
+            "destination": "River"
+        }
+    },
+    {
+        "index": 1320,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In pursuance of two orders from His Excellency Sir Guy Carleton K. B. General and Commander in Chief of His Majesty's Forces from Nova Scotia to West Florida inclusive, both dated Head Quarters, New York, the one 15 April 1783 and the other 2nd May, We whose names are hereunto subscribed do certify that we did carefully inspect the aforegoing Vessels on the 13th June 1783 and that on board the said vessels we found the Negroes mentioned in the foregoing List amounting to fourteen men, Eleven Woman and nine children and to the best of our Judgment believe them to be all the Negroes on board the said vessels and we enquired of the Master of each Vessel whether he had any Records, Deeds, Archives or papers or other property of the Citizens of the United States on board and to each Enquiry We were answered in the negative. And we further certify that We furnished each master of a Vessel with a Certified List of the Negroes on board the Vessel and informed him that he would not be permitted to Land in Nova Scotia any other Negroes than those contained on the List and that if any other Negroes were found on board the Vessel he would be severely punished and that We informed the Agent for the Transports of this matter and desired him to use means for returning back to this place all Negroes not mentioned in the List.",
+        "ship": {
+            "name": "Trident",
+            "destination": "Bremer"
+        }
+    },
+    {
+        "index": 1321,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Transports of this matter and desired him to use means for returning back to this place all Negroes not mentioned in the Lists. ",
+        "ship": {
+            "name": "Trident",
+            "destination": "Bremer"
+        }
+    },
+    {
+        "index": 1322,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "[Signed]: W.S. Smith; Samuel Jones, Secretary; Wilbar Cook, Captain 37th Regiment; T. Gilfillan, DQM Gen.",
+        "ship": {
+            "name": "Trident",
+            "destination": "Bremer"
+        }
+    },
+    {
+        "index": 1323,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "29 July 1783",
+        "ship": {
+            "name": "Trident",
+            "destination": "Bremer"
+        }
+    },
+    {
+        "index": 1669,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Mary Biverout, [under her name appears \"a Davis\"], 28, stout wench. Says she was born free at Savannah in Georgia.",
+        "ship": {
+            "name": "Clinton",
+            "destination": "Annapolis"
+        }
+    },
+    {
+        "index": 1724,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Edward Mosely of Princess Ann County, Virginia; left him 7 years ago.",
+        "ship": {
+            "name": "Clinton",
+            "destination": "Annapolis"
+        }
+    },
+    {
+        "index": 1878,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Peter Pharo. 35, stout man. Formerly the property of Abraham Duryee of Millstone, New Jersey; left him 6 years ago.",
+        "ship": {
+            "name": "L'Abondance",
+            "destination": "Port Roseway"
+        }
+    },
+    {
+        "index": 1958,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In pursuance of two orders from His Excellency Sir Guy Carleton K. B. General and Commander in Chief of His Majesty's Forces from Nova Scotia to West Florida inclusive, both dated Head Quarters, New York, the one 15 April 1783 and the other 2nd May, We whose names are hereunto subscribed do certify that we did carefully inspect the aforegoing Vessels on the 13th June 1783 and that on board the said vessels we found the Negroes mentioned in the foregoing List amounting to Two Hundred ad eighty seven men, two hundred thirty seven women and one hundred and ninety six children and to the best of our Judgment believe them to be all the Negroes on board the said vessels and we enquired of the Master of each Vessel whether he had any Records, Deeds, Archives or papers or other property of the Citizens of the United States on board and to each Enquiry We were answered in the negative. And we further certify that We furnished each master of a Vessel with a Certified List of the Negroes on board the Vessel and informed him that he would not be permitted to Land in Nova Scotia any other Negroes than those contained on the List and that if any other Negroes were found on board the Vessel he would be severely punished and that We informed the Agent for the Transports of this matter and desired him to use means for returning back to this place all Negroes not mentioned in the List.",
+        "ship": {
+            "name": "Grand Dutchess of Russia",
+            "destination": "Annapolis"
+        }
+    },
+    {
+        "index": 1959,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "[Signed]: Wilbar Cook, Captain of the 37th Regt.; W.S. Smith; Samuel Jones, Secretary; P. Armstrong, DQM Gen.",
+        "ship": {
+            "name": "Grand Dutchess of Russia",
+            "destination": "Annapolis"
+        }
+    },
+    {
+        "index": 1960,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "August 1783",
+        "ship": {
+            "name": "Grand Dutchess of Russia",
+            "destination": "Annapolis"
+        }
+    },
+    {
+        "index": 1996,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "&nbsp;",
+        "ship": {
+            "name": "Rebecca",
+            "destination": "Spithead"
+        }
+    },
+    {
+        "index": 2030,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "21 Aug. 1783",
+        "ship": {
+            "name": "Milford",
+            "destination": "Germany"
+        }
+    },
+    {
+        "index": 2062,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Hercules 16, stout fellow, very flat nose, (Joseph Pilgrim). Formerly the property of Isaac Harleston who was killed at the Eutaws of Irish town, South Carolina, 6 years ago.",
+        "ship": {
+            "name": "Nautilus",
+            "destination": "Abaco"
+        }
+    },
+    {
+        "index": 2113,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In pursuance of two orders from His Excellency Sir Guy Carleton K. B. General and Commander in Chief of His Majesty's Forces from Nova Scotia to West Florida inclusive, both dated Head Quarters, New York, the one 15 April 1783 and the other 2nd May, We whose names are hereunto subscribed do certify that we did carefully inspect the aforegoing Vessels on the 13th June 1783 and that on board the said vessels we found the Negroes mentioned in the foregoing List amounting to eighty men thirty nine women and thirty five children and to the best of our Judgment believe them to be all the Negroes on board the said vessels and we enquired of the Master of each Vessel whether he had any Records, Deeds, Archives or papers or other property of the Citizens of the United States on board and to each Enquiry We were answered in the negative. And we further certify that We furnished each master of a Vessel with a Certified List of the Negroes on board the Vessel and informed him that he would not be permitted to Land in Nova Scotia any other Negroes than those contained on the List and that if any other Negroes were found on board the Vessel he would be severely punished and that We informed the Agent for the Transports of this matter and desired him to use means for returning back to this place all Negroes not mentioned in the List.",
+        "ship": {
+            "name": "William",
+            "destination": "Abbaco"
+        }
+    },
+    {
+        "index": 2114,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "[Signed] W.L. Smith, Col.; Samuel Jones, Secretary; Nathaniel Philips, N.B.; William Armstrong, DQM Gen.",
+        "ship": {
+            "name": "William",
+            "destination": "Abbaco"
+        }
+    },
+    {
+        "index": 2127,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "6 Sept. 1783",
+        "ship": {
+            "name": "Berwick",
+            "destination": "England"
+        }
+    },
+    {
+        "index": 2145,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "18 September",
+        "ship": {
+            "name": "3 Sisters",
+            "destination": "Quebec"
+        }
+    },
+    {
+        "index": 2195,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Harry, her Vinia's infant, (Capt. Willmot). Capt. Willmot's property.",
+        "ship": {
+            "name": "Apollo",
+            "destination": "St. John's"
+        }
+    },
+    {
+        "index": 2196,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Robert, her Vinia's infant, (Capt. Willmot). Capt Willmot's property.",
+        "ship": {
+            "name": "Apollo",
+            "destination": "St. John's"
+        }
+    },
+    {
+        "index": 2200,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Kitty, infant, M, (Dr. Humphries, N.Y. Vols.). Her infant.",
+        "ship": {
+            "name": "Two Sisters",
+            "destination": "St. John's"
+        }
+    },
+    {
+        "index": 2218,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "13 September",
+        "ship": {
+            "name": "Mars",
+            "destination": "St. John's"
+        }
+    },
+    {
+        "index": 2271,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "In pursuance of two orders from His Excellency Sir Guy Carleton K. B. General and Commander in Chief of His Majesty's Forces from Nova Scotia to West Florida inclusive, both dated Head Quarters, New York, the one 15 April 1783 and the other 2nd May, We whose names are hereunto subscribed do certify that we did carefully inspect the aforegoing Vessels on the 13th June 1783 and that on board the said vessels we found the Negroes mentioned in the foregoing List amounting to sixty five men, thirty two women and thirty children and to the best of our Judgment believe them to be all the Negroes on board the said vessels and we enquired of the Master of each Vessel whether he had any Records, Deeds, Archives or papers or other property of the Citizens of the United States on board and to each Enquiry We were answered in the negative. And we further certify that We furnished each master of a Vessel with a Certified List of the Negroes on board the Vessel and informed him that he would not be permitted to Land in Nova Scotia any other Negroes than those contained on the List and that if any other Negroes were found on board the Vessel he would be severely punished and that We informed the Agent for the Transports of this matter and desired him to use means for returning back to this place all Negroes not mentioned in the List.",
+        "ship": {
+            "name": "Mars",
+            "destination": "St. John's"
+        }
+    },
+    {
+        "index": 2272,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "[Signed]: W.S. Smith, Col., On the Part of the United States; Samuel Jones, Secretary; Armstrong, DJGP. Gen.; Gilfillan, DVM Gen.",
+        "ship": {
+            "name": "Mars",
+            "destination": "St. John's"
+        }
+    },
+    {
+        "index": 2273,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "",
+        "ship": {
+            "name": "Mars",
+            "destination": "St. John's"
+        }
+    },
+    {
+        "index": 2274,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "",
+        "ship": {
+            "name": "Mars",
+            "destination": "St. John's"
+        }
+    },
+    {
+        "index": 2275,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": " 22 September 1783",
+        "ship": {
+            "name": "Mars",
+            "destination": "St. John's"
+        }
+    },
+    {
+        "index": 2276,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Spencer bound for Port Roseway ",
+        "ship": {
+            "name": "Mars",
+            "destination": "St. John's"
+        }
+    },
+    {
+        "index": 2439,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Susannah, ½ infant, (James Bogart). Property of James Bogart. ",
+        "ship": {
+            "name": "Mary",
+            "destination": "Port Roseway"
+        }
+    },
+    {
+        "index": 2448,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Sarah, ½, infant, (Dr. Bullen). Property of Dr. Bullen. ",
+        "ship": {
+            "name": "William &amp; Mary",
+            "destination": "Halifax"
+        }
+    },
+    {
+        "index": 2450,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "",
+        "ship": {
+            "name": "William &amp; Mary",
+            "destination": "Halifax"
+        }
+    },
+    {
+        "index": 2469,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Dinah, ½, infant, (Capt. Polhemus). Property of Capt. Polhemus.",
+        "ship": {
+            "name": "Hope",
+            "destination": "Annapolis"
+        }
+    },
+    {
+        "index": 2471,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Tim, ½, infant, (Capt. Hicks). Property of Capt. Hicks.",
+        "ship": {
+            "name": "Hope",
+            "destination": "Annapolis"
+        }
+    },
+    {
+        "index": 2517,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Daniel. 9 months, child of the above wench (Katy Profit), (James Dole).",
+        "ship": {
+            "name": "Hopewell",
+            "destination": "Port Roseway"
+        }
+    },
+    {
+        "index": 2555,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Elijah, ½, infant, (W.M. General Dept.). Born within the British lines.",
+        "ship": {
+            "name": "Elk",
+            "destination": "Port Mattoon"
+        }
+    },
+    {
+        "index": 2556,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Sukey, ½, infant, (W.M. General Dept.). Born within the British lines.",
+        "ship": {
+            "name": "Elk",
+            "destination": "Port Mattoon"
+        }
+    },
+    {
+        "index": 2557,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "11 October 1783",
+        "ship": {
+            "name": "Elk",
+            "destination": "Port Mattoon"
+        }
+    },
+    {
+        "index": 2558,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Inspected by Captains Gilfillan &amp; Armstrong, Lieutenant Colonel Smith &amp; Samuel Jones, Esquire, Secretary.",
+        "ship": {
+            "name": "Elk",
+            "destination": "Port Mattoon"
+        }
+    },
+    {
+        "index": 2595,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "John, free.",
+        "ship": {
+            "name": "Ship",
+            "destination": "Annapolis"
+        }
+    },
+    {
+        "index": 2596,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Mima, free.",
+        "ship": {
+            "name": "Ship",
+            "destination": "Annapolis"
+        }
+    },
+    {
+        "index": 2614,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "21 October 1783",
+        "ship": {
+            "name": "Stafford",
+            "destination": "Halifax"
+        }
+    },
+    {
+        "index": 2615,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Inspected by Captains Gilfillan, Armstrong, and Lieutenant Colonel Smith.",
+        "ship": {
+            "name": "Stafford",
+            "destination": "Halifax"
+        }
+    },
+    {
+        "index": 2644,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Johnny, ½, infant, (Black Pioneers). Born within the British Lines. ",
+        "ship": {
+            "name": "Lehigh",
+            "destination": "Annapolis"
+        }
+    },
+    {
+        "index": 2660,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "31 October 1783",
+        "ship": {
+            "name": "Lehigh",
+            "destination": "Annapolis"
+        }
+    },
+    {
+        "index": 2661,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Inspected by Captains Gilfillan &amp; Armstrong &amp; Lieutenant Col. Smith.",
+        "ship": {
+            "name": "Lehigh",
+            "destination": "Annapolis"
+        }
+    },
+    {
+        "index": 2721,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Mary Scot, ½, an infant. Born free",
+        "ship": {
+            "name": "Elijah",
+            "destination": "Port Mattoon"
+        }
+    },
+    {
+        "index": 2753,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "3 November 1783",
+        "ship": {
+            "name": "Elijah",
+            "destination": "Port Mattoon"
+        }
+    },
+    {
+        "index": 2790,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Thomas Gale, Morristown, New Jersey; left him in 1777. GBC.",
+        "ship": {
+            "name": "Duke Richmond",
+            "destination": "Spithead"
+        }
+    },
+    {
+        "index": 2817,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "John 1½, infant. Born within the lines.",
+        "ship": {
+            "name": "Joseph",
+            "destination": "Annapolis"
+        }
+    },
+    {
+        "index": 2993,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Dick Parkin, ½, (Mr. Parkin). Mr. Parkin's property.",
+        "ship": {
+            "name": "Nisbet",
+            "destination": "Port Mattoon"
+        }
+    },
+    {
+        "index": 3029,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Jane Barclay, ½. Her children.",
+        "ship": {
+            "name": "Nisbet",
+            "destination": "Port Mattoon"
+        }
+    },
+    {
+        "index": 3047,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "&nbsp;",
+        "ship": {
+            "name": "Nisbet",
+            "destination": "Port Mattoon"
+        }
+    },
+    {
+        "index": 3048,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In pursuance of two orders from His Excellency Sir Guy Carleton K. B. General and Commander in Chief of His Majesty's Forces from Nova Scotia to West Florida inclusive, both dated Head Quarters, New York, the one 15 April 1783 and the other 2nd May, We whose names are hereunto subscribed do certify that we did carefully inspect the aforegoing Vessels on the 13th June 1783 and that on board the said vessels we found the Negroes mentioned in the foregoing List amounting to Two Hundred and ninety six men, two Hundred and fifty five women and one Hundred and ninety nine Children and to the best of our Judgment believe them to be all the Negroes on board the said vessels and we enquired of the Master of each Vessel whether he had any Records, Deeds, Archives or papers or other property of the Citizens of the United States on board and to each Enquiry We were answered in the negative. And we further certify that We furnished each master of a Vessel with a Certified List of the Negroes on board the Vessel and informed him that he would not be permitted to Land in Nova Scotia any other Negroes than those contained on the List and that if any other Negroes were found on board the Vessel he would be severely punished and that We informed the Agent for the Transports of this matter and desired him to use means for returning back to this place all Negroes not mentioned in the List.",
+        "ship": {
+            "name": "Nisbet",
+            "destination": "Port Mattoon"
+        }
+    },
+    {
+        "index": 3049,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "[Signed]: Gilfillan; Armstrong; W.S. Smith, Col., on the part of the United States; Samuel Jones, Secretary.",
+        "ship": {
+            "name": "Nisbet",
+            "destination": "Port Mattoon"
+        }
+    },
+    {
+        "index": 3050,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Click Here for Book Three",
+        "ship": {
+            "name": "Nisbet",
+            "destination": "Port Mattoon"
+        }
+    },
+    {
+        "index": 3051,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": " ",
+        "ship": {
+            "name": "Nisbet",
+            "destination": "Port Mattoon"
+        }
+    },
+    {
+        "index": 3052,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "",
+        "ship": {
+            "name": "Nisbet",
+            "destination": "Port Mattoon"
+        }
+    },
+    {
+        "index": 3053,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": " &nbsp;",
+        "ship": {
+            "name": "Nisbet",
+            "destination": "Port Mattoon"
+        }
+    },
+    {
+        "index": 3054,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "30 November 1783",
+        "ship": {
+            "name": "Nisbet",
+            "destination": "Port Mattoon"
+        }
+    },
+    {
+        "index": 3055,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Inspected by Captains Gilfillen and Armstrong",
+        "ship": {
+            "name": "Nisbet",
+            "destination": "Port Mattoon"
+        }
+    },
+    {
+        "index": 3057,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "John Bucher, aged 23 years, stout fellow, goes with the Waggon Master General's department. Formerly slave to Mr. Webb, Charlestown, South Carolina; left him in 1776. General Musgrave's Certificate.",
+        "ship": {
+            "name": "Peggy",
+            "destination": null
+        }
+    },
+    {
+        "index": 3069,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Thomas Thomas, aged 36 years, stout fellow, Royal Artillery Department. Formerly slave to Charles Thomas, Nancy Mund, Virginia; left him in 1776. GBC.",
+        "ship": {
+            "name": "The Ship Danger",
+            "destination": null
+        }
+    },
+    {
+        "index": 3079,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "Hannah Wallace 22 years, ordinary wench, RAD. Formerly slave to William Arronstead, Gloucester, Virginia; left him in 1776. GMC.",
+        "ship": {
+            "name": "The Ship Danger",
+            "destination": null
+        }
+    },
+    {
+        "index": 3086,
+        "name": null,
+        "age": null,
+        "ageString": null,
+        "condition": null,
+        "formerOwner": null,
+        "city": null,
+        "colony": null,
+        "escapeYear": null,
+        "rawEntry": "",
+        "ship": {
+            "name": "The Ship Danger",
+            "destination": null
+        }
+    }
+]

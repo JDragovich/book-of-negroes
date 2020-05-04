@@ -92,6 +92,8 @@ function findEscapeYear(strippedEntry){
   return computedEscape ? computedEscape : literalYear ? literalYear[0] : null
 }
 
+let badCount = 0;
+
 const jsonObj = entries.reduce((total, entry, index)=> {
   const strippedEntry = entry.replace(/<.*?>/g,'')
   if (entry.match(/\"center\"/) && entry.match(/<i>.*<\/i>/)){
@@ -143,10 +145,28 @@ const jsonObj = entries.reduce((total, entry, index)=> {
       return [...total, badEntry]
     }
   } else {
+    badCount++
+    badEntries.push({
+      index,
+      name: null,
+      age: null,
+      ageString: null,
+      condition: null,
+      formerOwner: null,
+      city: null,
+      colony: null,
+      escapeYear: null,
+      rawEntry: strippedEntry,
+      ship: Object.assign({}, ship)
+    })
+
     return total
   }
 
 },[])
 
-fs.writeFileSync('data.json', JSON.stringify(jsonObj, null, 4) , 'utf-8')
+console.log('bad count: ', badCount)
+
+//fs.writeFileSync('data.json', JSON.stringify(jsonObj, null, 4) , 'utf-8')
+fs.writeFileSync('ignored-entries.json', JSON.stringify(badEntries, null, 4) , 'utf-8')
 console.log(`wrote ${jsonObj.length} entries, with ${badEntries.length} bad entries`)
